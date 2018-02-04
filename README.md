@@ -3,7 +3,7 @@
 
 ```yaml
 _rapfmt: v1.0
-_what: album
+_what: artist
 name: Miron Fedorov
 year_born: 1985
 countries:
