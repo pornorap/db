@@ -16,6 +16,12 @@ langs:
 featured_with:
  - ЛСП
  - Луперкаль
+decades:
+ - 00s
+ - 10s
+labels:
+ - Booking Machine
+ - Optik Russia
 links:
   wiki: https://en.wikipedia.org/wiki/Oxxxymiron
   twitter: https://twitter.com/norimyxxxo
