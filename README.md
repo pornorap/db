@@ -13,6 +13,9 @@ countries:
 langs:
   - Russian
   - English
+featured_with:
+ - ЛСП
+ - Луперкаль
 links:
   wiki: https://en.wikipedia.org/wiki/Oxxxymiron
   twitter: https://twitter.com/norimyxxxo
