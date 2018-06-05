@@ -40,7 +40,7 @@ _what: track
 name: Дико, например
 album: Pink Phloyd
 artist: Pharaoh
-langs:
+featuring:
   - Someone1
   - Someone2
 length: 2:48
