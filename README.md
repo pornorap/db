@@ -40,6 +40,9 @@ _what: track
 name: Дико, например
 album: Pink Phloyd
 artist: Pharaoh
+langs:
+  - Someone1
+  - Someone2
 length: 2:48
 production: White Punk
 year: 2017
