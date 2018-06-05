@@ -22,6 +22,9 @@ decades:
 labels:
  - Booking Machine
  - Optik Russia
+cities:
+ - London
+ - Moscow
 links:
   wiki: https://en.wikipedia.org/wiki/Oxxxymiron
   twitter: https://twitter.com/norimyxxxo
