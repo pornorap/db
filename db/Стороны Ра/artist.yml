@@ -2,4 +2,11 @@ _rapfmt: v1.0
 _what: artist
 langs:
 - Russian
+featured_with:
+ - Loc-Dog
+decades:
+ - 00s
+ - 10s
+cities:
+ - Moscow
 name: Стороны Ра
