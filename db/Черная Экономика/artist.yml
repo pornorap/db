@@ -2,4 +2,10 @@ _rapfmt: v1.0
 _what: artist
 langs:
 - Russian
+featured_with:
+ - Рыночные Отношения
+ decades:
+ - 00s
+cities:
+ - Moscow
 name: Черная Экономика
