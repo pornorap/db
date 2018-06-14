@@ -2,4 +2,9 @@ _rapfmt: v1.0
 _what: artist
 langs:
 - Russian
+decades:
+ - 90s
+ - 00s
+cities:
+ - Moscow
 name: Многоточие
