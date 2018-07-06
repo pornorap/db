@@ -3,3 +3,10 @@ _what: artist
 langs:
 - Russian
 name: Face
+featured_with:
+ - Yanix
+ - Enique
+decades:
+ - 10s
+cities:
+ - Ufa
